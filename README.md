@@ -1,1 +1,1 @@
-# diffmpm_damageid_publication
+# A Differentiable Material Point Method (DiffMPM) for Damage Identification in Structural Health Monitoring
